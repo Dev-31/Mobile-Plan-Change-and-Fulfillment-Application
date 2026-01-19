@@ -1,0 +1,20 @@
+# Backend (Spring Boot)
+mobileplan/target/
+mobileplan/.mvn/
+mobileplan/*.log
+
+# Frontend (React)
+frontend/mobileplan-ui/node_modules/
+frontend/mobileplan-ui/dist/
+
+# Env & secrets
+application.properties
+application.yml
+.env
+*.env
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
