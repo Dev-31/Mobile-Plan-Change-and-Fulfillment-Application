@@ -33,7 +33,7 @@ A full-stack web application that enables users to register, authenticate using 
 ## 🧰 Tech Stack
 
 ### Backend
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Security
 - Spring Data JPA
@@ -73,7 +73,7 @@ A full-stack web application that enables users to register, authenticate using 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Java 21+
+- Java 17+
 - Node.js 18+
 - MySQL
 - Maven
